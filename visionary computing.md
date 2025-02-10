@@ -1,0 +1,1 @@
+Visionary Computing is the practice of envisioning and building the future, using technology available right now. As pieces of the technology advance, we get "upgraded" versions of the software or system we are trying to build - and we go closer to the vision. 
