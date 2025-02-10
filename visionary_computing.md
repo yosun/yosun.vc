@@ -15,7 +15,7 @@ My study in (VC) is largely rooted in my practice of [expressive computing](expr
 	- SIGGRAPH Real-Time Live Napkinmatic 3D 
 	- WoodstockAI - Napkinmatic 
 - 2022 [Arithmagical](https://Arithmagical.com). Me, as part of a SIGGRAPH jury with Inigo Quilez?! 
-	- i created Universe Planner, which won a prize 
+	- i created Universe Planner, which utilizes the solar system and planets and cities as paradigms for planning won a big prize 
 	- i created earrings.ai shortly after i realized stable diffusion could run on my m1 max! 
 - 2021 i created a few metaverses, including Worldmatica
 - 2020 Back in SF. [PaperMATA](https://PaperMATA.com) where sims-inspired AI people live on postcard AR worlds (and diorama.space) - and [DrawmaticAR](https://DrawmaticAR.com) - which turns what kids write on real paper into 3D AR animated scenes - wins SIGGRAPH Real-Time Live Audience Choice Award 
