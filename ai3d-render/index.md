@@ -4,7 +4,7 @@ Since it's 2025 and image to 3D is basically a fully solved problem - beyond pri
 
 1) we can extract a 3D model from an image and then tangibly animate it in AR to create a video as shown in my early 2025 CVPR Demo: 
 
-![][https://www.youtube.com/watch?v=-_IHmyiEDak]
+![](https://www.youtube.com/watch?v=-_IHmyiEDak)
 
 2) it seems that people prefer having a more traditional creator app, so I fleshed this out into the AI3D Render app, presented at CVPR (part of Go with the Flow Orals and CVPR Demos) along with moving both camera and scene objects using Ultraleap hand tracking in glasses-free 3D using a Sony Spatial Computing Display. 
 
