@@ -4,7 +4,7 @@ Inspired by both BumpTop and Apple's old skeuomorphic icons...
 
 ### March 2024: Founders Inc Vision Pro Demo
 
-[![](https://img.youtube.com/vi/YzW1jd7Ot5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=YzW1jd7Ot5U)
+![(https://img.youtube.com/vi/YzW1jd7Ot5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=YzW1jd7Ot5U)
 
 A spatial computing desktop that has all kinds of widgets for intuitive 3D creation 
 
