@@ -1,23 +1,20 @@
-## A Skeuomorphic Desktop for Creating 3D
+AI3D Render is a series of 3D/XR app experiments built around a system allowing generative image to video to video AI. 
 
-Inspired by both BumpTop and Apple's old skeuomorphic icons...
+Since it's 2025 and image to 3D is basically a fully solved problem - beyond primitives:
 
-### March 2024: Founders Inc Vision Pro Demo
+1) we can extract a 3D model from an image and then tangibly animate it in AR to create a video as shown in my early 2025 CVPR Demo: 
 
-![](https://www.youtube.com/watch?v=YzW1jd7Ot5U)
+![https://www.youtube.com/watch?v=-_IHmyiEDak](https://www.youtube.com/watch?v=-_IHmyiEDak)
 
-A spatial computing desktop that has all kinds of widgets for intuitive 3D creation 
+2) it seems that people prefer having a more traditional creator app, so I fleshed this out into the AI3D Render app, presented at CVPR (part of Go with the Flow Orals and CVPR Demos) along with moving both camera and scene objects using Ultraleap hand tracking in glasses-free 3D using a Sony Spatial Computing Display. 
 
-And even a gumball machine to load skyboxes
-![](https://www.youtube.com/watch?v=3K3cYVVPRQY)
+[![Image from Gyazo](https://i.gyazo.com/7cdc36a9ade230aa33a62cdc9da7b7fe.gif)](https://gyazo.com/7cdc36a9ade230aa33a62cdc9da7b7fe)
 
-### June 2024 CVPR
+![](https://www.youtube.com/watch?v=wbkcvBow6vA)
 
-![](https://www.youtube.com/watch?v=nBV-bI5-JvE)
-Image to 3D + Sculptable on Sony Spatial Computing Display
+The first frame method can also be interpreted as a form of "vidbreeder", where one can "breed" new videos from a prompt+ first frame controlnet + video "motion noise". 
 
-### August SIGGRAPH 2024: 
-![](https://x.com/Yosun/status/1821914628546556118)
 
-![](https://www.youtube.com/watch?v=JyDpdIO-AHE)
-Added the PaintMagical app for the iPad sketch to 3D interface. 
+3) Here's an early version of an AI3D Render AR app (though the model doesn't generate great results when the objects are too small, FOV of phone issue)
+
+![](https://www.youtube.com/watch?v=JcorlEGGswk)
